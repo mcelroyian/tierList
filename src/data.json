@@ -1,0 +1,35 @@
+{
+  "heroes": [
+    "Quincy",
+    "Adora",
+    "Sauda",
+    "Gwendolin"
+  ],
+  "towers": [
+    "Dart Monkey",
+    "Ninja Monkey",
+    "Super Monkey",
+    "Boomerang Monkey",
+    "Wizard Monkey",
+    "Sniper Monkey",
+    "Tack Shooter",
+    "Ice Monkey",
+    "Glue Gunner",
+    "Alchemist",
+    "Druid",
+    "Engineer Monkey",
+    "Banana Farm",
+    "Spike Factory",
+    "Monkey Village"
+  ],
+  "paragons": [
+    "Glaive Dominus (Paragon)"
+  ],
+  "tiers": [
+    "S",
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
+}
